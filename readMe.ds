@@ -1,1 +1,6 @@
 https://github.com/CandyMan999/weather-or-not
+
+
+This app utilizes googlemaps api.. foursquare api, open weather maps api, and firebase as a database.
+
+this app allows users to see what the weather is in real time as well as what venues are trending in a particular city around the world!
